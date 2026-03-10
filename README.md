@@ -67,6 +67,3 @@ Las contribuciones, sugerencias y mejoras son bienvenidas para enriquecer el apr
 
 ## 📌 Nota
 Este desafío no solo contribuye al crecimiento en el área de **Ciencia de Datos**, sino que también demuestra cómo la analítica y el machine learning pueden resolver problemas reales enfrentados por empresas en el mercado.
-
-## Primera parte del desafio:
-https://github.com/Idguerrero333/Challenge-Alura-Telecom-X.git
